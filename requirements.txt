@@ -8,7 +8,8 @@ awscli==1.19.92
 Babel==2.9.1
 backcall==0.2.0
 bleach==3.3.0
-botocore==1.20.92
+boto3==1.18.39
+botocore==1.21.39
 certifi==2021.5.30
 cffi==1.14.5
 chardet==4.0.0
@@ -75,8 +76,9 @@ pyzmq==22.1.0
 qtconsole==5.1.0
 QtPy==1.9.0
 requests==2.25.1
+requests-unixsocket==0.2.0
 rsa==4.7.2
-s3transfer==0.4.2
+s3transfer==0.5.0
 Send2Trash==1.5.0
 six==1.16.0
 sniffio==1.2.0
